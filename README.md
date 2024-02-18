@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&text=Hi%20I'm%20Sinyeong&section=header&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&text=Hi,%20I'm%20Sinyeong&section=header&fontSize=90" />
 
 
 <h1>  🛠Tech Stack🛠  </h1> 
