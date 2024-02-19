@@ -39,5 +39,5 @@
 
 ---
 <h1> 📑Portfolio </h1>
-노션 :  <a href="https://peppermint-oak-168.notion.site/7edb55b75a70470c88b4596e8c327b88?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+ <a href="https://peppermint-oak-168.notion.site/7edb55b75a70470c88b4596e8c327b88?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
